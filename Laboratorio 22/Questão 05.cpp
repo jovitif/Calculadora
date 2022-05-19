@@ -2,7 +2,7 @@
 #include<locale.h>
 #include<cmath>
 using namespace std;
-
+//Comentario
 int main() {
 	enum {adição=1, subtração, multiplicação, divisão, quadrado};
 	setlocale(LC_ALL, "portuguese");
